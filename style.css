@@ -47,4 +47,6 @@ footer {
     color: white;
     margin-top: 20px;
 }
-
+footer a {
+  color: #a9d1b8;
+}
