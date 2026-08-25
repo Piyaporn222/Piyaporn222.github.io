@@ -3,11 +3,11 @@ body {
   line-height: 1.6;
   margin: 0;
   padding: 0;
-  background-color: #571c1c;
+  background-color: #304e6e;
   color: #333;
 }
 header {
-   background: #571c1c; 
+   background:#2121b5;
    color: white;
    padding: 20px 0;
    text-align: center;
@@ -27,7 +27,7 @@ section {
    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 h2 {
-  color: #571c1c;
+  color:#b0192f;
 }
 .project {
     margin-bottom: 20px;
@@ -48,6 +48,6 @@ footer {
     margin-top: 20px;
 }
 footer a {
- color: #571c1c;
+ color: #375787;
  text-decoration: none;
 }
